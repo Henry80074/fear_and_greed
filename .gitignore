@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/src/main/java/com/company/password.java
+/target/classes/com/company/password.class
